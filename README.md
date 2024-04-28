@@ -1,1 +1,2 @@
+# Proyecto-UCH-FEST
 Este proyecto representa una experiencia interactiva cautivadora, donde un corazón animado no solo late con vida, sino que también muestra los nombres de un hombre y una mujer. Cuando el cursor se desplaza sobre él, el corazón acelera su ritmo y los nombres adoptan una nueva fuente, creando una dinámica visual envolvente. Aunque la integración con la API fue gestionada por un profesor, mi contribución radica en el diseño y la animación del corazón, una pieza central que eleva la experiencia del usuario.
